@@ -1,0 +1,35 @@
+nt	identifier	1
+len	identifier	1
+=	operator	1
+5	integer_literal	1
+;	semicolon	1
+System	identifier	2
+.out	unknown	2
+.println	unknown	2
+(	left_parenthesis	2
+"the length of rctangle:"	string_literal	2
++ len); 	unknown	2
+int	keyword	3
+wid	identifier	3
+=	operator	3
+4	integer_literal	3
+;	semicolon	3
+System	identifier	4
+.out	unknown	4
+.println	unknown	4
+(	left_parenthesis	4
+"the width of rctangle:"	string_literal	4
+ + wid); 	unknown	4
+int	keyword	5
+rctangle	identifier	5
+=	operator	5
+len	identifier	5
+*	operator	5
+wid	identifier	5
+;	semicolon	5
+System	identifier	6
+.out	unknown	6
+.println	unknown	6
+(	left_parenthesis	6
+"Area of rctangle:"	string_literal	6
+ + rctangle);	unknown	6

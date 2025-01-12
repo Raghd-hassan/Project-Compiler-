@@ -1,0 +1,6 @@
+nt len = 5;
+System.out.println("the length of rctangle:"+ len); 
+    int wid = 4;
+   System.out.println("the width of rctangle:" + wid); 
+ int rctangle = len * wid;
+    System.out.println("Area of rctangle:" + rctangle);
